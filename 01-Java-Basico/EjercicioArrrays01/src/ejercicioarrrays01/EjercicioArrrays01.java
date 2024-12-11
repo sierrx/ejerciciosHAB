@@ -16,10 +16,10 @@ public class EjercicioArrrays01 {
             
             System.out.println("ingrese el valor de la posicion "+i);
             num[i]=teclado.nextInt();
-            
-            if (num[i] == 7) { 
-                c++; 
+            if(num[i]==7){
+                c++;
             }
+            
             
             
         }
